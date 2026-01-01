@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipywidgets
+plotly
+scipy
+jupyter
+statsmodels
+ipykernel
+nbformat>=4.2.0
